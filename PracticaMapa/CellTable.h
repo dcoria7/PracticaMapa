@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface CellTable : UITableViewController
+@interface CellTable : UITableViewCell
+
+@property(weak,nonatomic)IBOutlet UILabel *numero;
+@property(weak,nonatomic)IBOutlet UILabel *nombre;
+@property(weak,nonatomic)IBOutlet UIImageView *image;
 
 @end

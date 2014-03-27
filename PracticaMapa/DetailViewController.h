@@ -10,4 +10,9 @@
 
 @interface DetailViewController : UIViewController
 
+@property(weak,nonatomic)IBOutlet UIImageView *image;
+@property(weak,nonatomic)IBOutlet UILabel *descripcion;
+
+
+
 @end
