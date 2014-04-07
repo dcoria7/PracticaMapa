@@ -91,6 +91,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="166" y="-56"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="98f-dq-tlO">
@@ -105,7 +106,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="vhq-kI-2YC" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-404" y="-67"/>
+            <point key="canvasLocation" x="-262" y="-56"/>
         </scene>
         <!--Map View Controller-->
         <scene sceneID="D0L-iJ-iSG">
@@ -133,25 +134,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="BNV-fE-Axb" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="465" y="-67"/>
-        </scene>
-        <!--Detail Map View Controller-->
-        <scene sceneID="mMn-ge-WZ9">
-            <objects>
-                <viewController id="yad-Zg-E4C" customClass="DetailMapViewController" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="iWT-5q-Akm"/>
-                        <viewControllerLayoutGuide type="bottom" id="2aS-yU-hOx"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="EhC-bM-saW">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
-                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="US1-9i-jwa" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="874" y="-67"/>
+            <point key="canvasLocation" x="585" y="-56"/>
         </scene>
     </scenes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
